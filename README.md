@@ -41,11 +41,8 @@ Your games are saved locally in the `data\games\` folder, in a PGN-style format.
 ## Planned
 
 - Game review inside the app
-- More training tools over time
 - A stronger engine
 
 ## About
 
-Stonecrow is its own engine. It is not a wrapper around Stockfish or any other engine. It is not open source.
-
-Made by [Szymdows](https://szymdows.com).
+Stonecrow is made by [Szymdows](https://szymdows.com).
